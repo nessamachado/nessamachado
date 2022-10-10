@@ -1,6 +1,6 @@
 Olá, bem vindo(a). Eu sou a Vanessa Machado 👋
 
-- 🔭 Hoje stou trabalhando com Back-end
+- 🔭 Hoje stou trabalhando de estágio n IBM
 - 🌱 Estou aprendendo Java, HTML
  - 😄 Pronouns: ela/dela 
 <div align="center">
