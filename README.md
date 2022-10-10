@@ -1,4 +1,8 @@
-Oi! Eu sou Vanessa Machado...
+Olá, bem vindo(a). Eu sou a Vanessa Machado 👋
 
-- 🔭 Estou trabalhando de estágio na IBM
-- 🌱 Atualmente estou aprendendo Java, HTML
+- 🔭 Hoje stou trabalhando com Back-end
+- 🌱 Estou aprendendo Java, HTML
+ - 😄 Pronouns: ela/dela 
+<div align="center">
+   <a href="https://github.com/nessamachado">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nessamachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
